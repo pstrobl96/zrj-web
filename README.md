@@ -2,6 +2,19 @@
 
 Website for zazitroudnicijinak.cz. As main static web generator is used Hugo build upon Golang. Chosed theme is [Arcana](https://github.com/half-duplex/hugo-arcana)
 
+## To Do
+
+Well website is not complete... yet. Most of content is here in repo.
+
+- Image for page *Guerilla gardening*
+- Image for page *Výsadba stromů*
+- Text for page *ZRJ 2022* - wasn't included in backup, used text from facebook
+- Enable dropdown menus for *Zažít Roudnici Jinak* and *Ostatní námi pořádané akce*
+- Redo main page
+- Header image...? Not sure for now
+- Export static files and upload to Github pages
+- DNS change
+
 ## How run website?
 
 ### Hugo install
@@ -18,6 +31,7 @@ And everything you need is to run webserver.
 
 ```
 cd zrj-web
+git checkout hugo
 hugo server -D
 ```
 
@@ -27,7 +41,7 @@ You know what they say... Slow and steady wins the race
 
 ## How to add page?
 
-I dunno ¯\_(ツ)_/¯
+Hugo use Markdown for formatting of pages. Guide of basic syntax can be found at [Markdown Guide](https://www.markdownguide.org/basic-syntax/).  
 
 ## Directory structure for content creators
 
