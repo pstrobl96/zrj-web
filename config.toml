@@ -1,0 +1,42 @@
+title = "Zažít Roudnici Jinak"
+baseURL = "https://zazitroudnicijinak.cz/"
+languageCode = "cz-cs"
+theme = "arcana"
+copyright = "pubel.dev"
+DefaultContentLanguage = "cz"
+enableRobotsTXT = false
+
+[taxonomies]
+    tag = "zrj"
+
+[params]
+    description = "Web o sousedské události pořádané v Roudnici nad Labem"
+    show_post_dates = false
+    copyright_link = "https://pubel.dev"
+
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook-f"
+        url = "https://www.facebook.com/zazitroudnicijinak"
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "https://github.com/pstrobl96/zrj-web"
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+    [[params.sponsors]]
+        title = "Automat"
+        logo = "/images/sponsors/automat.png"
+        url = "https://auto-mat.cz/"
+    [[params.sponsors]]
+        title = "Zažij Město Jinak"
+        logo = "/images/sponsors/zazitmestojinak.png"
+        url = "http://zazitmestojinak.cz/"
+    [[params.sponsors]]
+        title = "Roudnice nad Labem"
+        logo = "/images/sponsors/roudnice.png"
+        url = "https://www.roudnicenl.cz/"
+
