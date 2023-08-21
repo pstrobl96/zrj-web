@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "/images/header.jpg"
+  image: "/images/zrj2023/zrj23_banner.jpg"
   contents: "**2023!** _Další ročník ZRJ už v září_"
   button:
     contents: "Dozvědět se více"
