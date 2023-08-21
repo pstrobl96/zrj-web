@@ -64,5 +64,12 @@ Hugo use Markdown for formatting of pages. Guide of basic syntax can be found at
     └── zazit_roudnici_jinak
         └── zrj<year_of_event>.md
             ├── // pages that are about ZRJ
-            └── // name is named always zrj + year of event.md
+            └── // name is always zrj + year of event.md
 ```
+
+## Preview
+
+Right now there is no running demo. However there is also screenshot how website looks.
+
+![main page](docs/images/mainpage.png)
+![main page](docs/images/page.png)
