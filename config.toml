@@ -4,7 +4,7 @@ languageCode = "cz-cs"
 theme = "arcana"
 copyright = "pubel.dev"
 DefaultContentLanguage = "cz"
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [taxonomies]
     tag = "zrj"
