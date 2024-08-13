@@ -4,6 +4,7 @@ date: 2024-08-11T09:50:00+02:00
 menu: main
 tags: ["zrj", "info", "onas"]
 weight: -2
+mainpage: true
 ---
 
 {{< typeit 

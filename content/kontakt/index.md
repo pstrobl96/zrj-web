@@ -5,6 +5,7 @@ menu: main
 tags: ["zrj", "info", "kontakt"]
 summary: "Chcete-li nás kontaktovat, zde najdete vše nezbytné."
 weight: -1
+mainpage: true
 ---
 
 

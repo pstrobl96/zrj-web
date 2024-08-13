@@ -7,7 +7,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["poutaky"]
+mainSections = ["content"]
 # robots = ""
 
 disableImageOptimization = false

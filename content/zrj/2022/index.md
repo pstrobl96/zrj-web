@@ -1,9 +1,8 @@
 ---
 title: "Zažít Roudnici Jinak 2022"
 image: /images/zrj2022/302442816_5194371673991739_1343041282512982894_n.jpg
-date: 2023-08-08T07:49:20+02:00
+date: 2022-08-08T07:49:20+02:00
 tags: ["zrj", "2022"]
-weight: 1022
 ---
 
 Zažijeme si Roudnici opět trochu jinak, tentokrát na zámku a jeho okolí.

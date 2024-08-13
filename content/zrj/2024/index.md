@@ -1,7 +1,7 @@
 ---
 title: "Zažít Roudnici Jinak 2024"
 image: /images/zrj2023/zrj23_banner.jpg
-date: 2023-08-08T07:49:20+02:00
+date: 2024-08-08T07:49:20+02:00
 tags: ["zrj", "2024"]
 ---
 
