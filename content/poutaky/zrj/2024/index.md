@@ -2,7 +2,7 @@
 title: "Zažít Roudnici Jinak 2024"
 image: /images/zrj2023/zrj23_banner.jpg
 date: 2023-08-08T07:49:20+02:00
-tags: ["zrj", "2023"]
+tags: ["zrj", "2024"]
 ---
 
 Desátý ročník Zažít Roudnici Jinak a je zpět na místě činu!

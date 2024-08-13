@@ -3,6 +3,7 @@ title: "Zažít Roudnici Jinak 2018"
 image: /images/zrj2018/40143616_1730665387029069_7867163347806846976_n.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2018"]
+weight: 1018
 ---
 
 Zažít Roudnici jinak počtvrté

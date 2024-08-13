@@ -3,6 +3,7 @@ title: "Zažít Roudnici Jinak 2019"
 image: /images/zrj2019/73515756_2356672567761678_6223343689905733632_n.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2019"]
+weight: 1019
 ---
 
 Zažít Roudnici jinak 2019 je již pátým ročníkem v našem městě. Cílem je přinést život do ulic a náměstí, umožnit, aby se sousedé mohli potkat a strávit den i na trošku netradičním místě.

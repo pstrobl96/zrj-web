@@ -3,6 +3,7 @@ title: "Zažít Roudnici Jinak 2016"
 image: zapoj_se/pocasi.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2016", "karlajerabka"]
+weight: 1016
 ---
 
 Druhý ročník ZRJ klepe na dveře a my ho do ulic vpustíme v sobotu 24. 9. 2016 od 10 do 20 hodin. 8 zón, 80 aktivit, 10 kapel, 8 DJs. Jakou si tu sobotu uděláme, taková bude. Přines si  deku, karimatku, něco na gril, půllitr, kytku, knížku nebo třeba vyvenči kolo a zúčastni se nejkratší cyklojízdy na světě. Těšíme se na viděnou!

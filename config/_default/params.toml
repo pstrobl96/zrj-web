@@ -7,7 +7,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["main","zrj"]
+mainSections = ["poutaky"]
 # robots = ""
 
 disableImageOptimization = false
@@ -56,13 +56,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  showDraftLabel = false
+  showEdit = true
+  editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = false
+  showPagination = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
