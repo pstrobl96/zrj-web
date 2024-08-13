@@ -11,14 +11,14 @@ Těšíme se na vás!
 
 ## Soutěž
 
-![Soutěž](/images/zrj2022/soutez.jpg)
+![Soutěž](soutez.jpg)
 
 
 ## Program
 
-![Program](/images/zrj2022/program1.jpg)
-![Program](/images/zrj2022/program2.jpg)
+![Program](program1.jpg)
+![Program](program2.jpg)
 
 ## Plakát
 
-![Plakát](/images/zrj2022/plakat.jpg)
+![Plakát](plakat.jpg)

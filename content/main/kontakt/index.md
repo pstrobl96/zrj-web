@@ -6,6 +6,8 @@ weight: 500
 tags: ["zrj", "info", "kontakt"]
 ---
 
+Chcete-li nás kontaktovat, tak ohle je rozhodně ta nejlepší stránka, kde můžete být. 
+
 Zažít Roudnici jinak, z.s.  
 Třebízského 237  
 413 01 Roudnice nad Labem  
