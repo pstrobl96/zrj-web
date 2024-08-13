@@ -2,13 +2,15 @@
 title: "O nás"
 date: 2024-08-11T09:50:00+02:00
 menu: main
-weight: 400
 tags: ["zrj", "info", "onas"]
+weight: -2
 ---
 
 {{< typeit 
-  tag=h1
+  tag=h2
   lifeLike=true
+  breakLines=false
+  loop=true
 >}}
 Nejen my jsme Zažít Roudnici Jinak
 Hlavní součástí jste vy{{< /typeit >}}

@@ -7,4 +7,4 @@ tags: ["zrj", "2017"]
 
 Další info na [Facebooku](https://www.facebook.com/events/241989489644379/).
 
-![map](/images/zrj2017/21740724_1372474142848197_7291285107005303098_o.jpg)
+![map](21740724_1372474142848197_7291285107005303098_o.jpg)

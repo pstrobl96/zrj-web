@@ -1,5 +1,7 @@
 ---
 title: Ostatní námi pořádané akce
 menu: main
-weight: 350
+weight: -3
 ---
+
+Nejen ZRJ je člověk živ 

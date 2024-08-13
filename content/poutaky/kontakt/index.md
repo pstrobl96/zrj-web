@@ -2,11 +2,11 @@
 title: "Kontakt"
 date: 2024-08-11T09:50:00+02:00
 menu: main
-weight: 500
 tags: ["zrj", "info", "kontakt"]
+summary: "Chcete-li nás kontaktovat, zde najdete vše nezbytné."
+weight: -1
 ---
 
-Chcete-li nás kontaktovat, tak ohle je rozhodně ta nejlepší stránka, kde můžete být. 
 
 Zažít Roudnici jinak, z.s.  
 Třebízského 237  

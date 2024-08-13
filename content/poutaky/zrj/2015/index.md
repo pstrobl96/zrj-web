@@ -3,6 +3,7 @@ title: "Zažít Roudnici Jinak 2015"
 image: o_akci/oakci.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2015", "karlajerabka"]
+weight: 1015
 ---
 
 V roce 2015 jsme poprvé uspořádali slavnost Zažít Roudnici jinak. Byl to první velký společný projekt, který nás nakopnul k dalším aktivitám. [Album](https://get.google.com/albumarchive/118040934014524523956/album/AF1QipNpKDbnfJANusUuBxbE6lZnNYOnr6bBrNNuCG5Q).
