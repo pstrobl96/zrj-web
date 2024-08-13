@@ -5,6 +5,10 @@ date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2023"]
 ---
 
+Desátý ročník Zažít Roudnici Jinak a je zpět na místě činu!
+
+![Desaty Rocnik](deset.jpg)
+
 Někdo to rád kvašené 🤭. Letos soutěžíme o nejlepší roudnické KIMČIIIII! 🥬
 🥛 Naložte zeleninku do zavařovačky
 🦠 Nechte prospěšné bakterie dělat, co umí

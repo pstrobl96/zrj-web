@@ -1,6 +1,6 @@
 ---
 title: "Zažít Roudnici Jinak 2016"
-image: /images/zrj2016/zapoj_se/pocasi.jpg
+image: zapoj_se/pocasi.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2016", "karlajerabka"]
 ---
@@ -25,13 +25,13 @@ Program HUDEBNÍ SCÉNY uveden dole.
 
 Vstup je zdarma a je na vlastní nebezpečí.
 
-![Program](/images/zrj2016/program/program_big_pig_opak_final_2.png)
+![Program](program/program_big_pig_opak_final_2.png)
 
-![Program](/images/zrj2016/program/14444814_10208873562534053_1246867910394777046_o.jpg)
+![Program](program/14444814_10208873562534053_1246867910394777046_o.jpg)
 
 ### Mapa aktivit
 
-![Mapa aktivit](/images/zrj2016/mapa_aktivit/ZRJ_mapa_2016_cela.png)
+![Mapa aktivit](mapa_aktivit/ZRJ_mapa_2016_cela.png)
 
 ### Podpořili nás
 

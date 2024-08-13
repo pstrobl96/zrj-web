@@ -1,5 +1,5 @@
 ---
-title: "Zažít Roudnici Jinak"
+title: "ZRJ"
 date: 2024-08-11T09:50:00+02:00
 menu: main
 weight: 300

@@ -1,6 +1,6 @@
 ---
 title: "Zažít Roudnici Jinak 2015"
-image: /images/zrj2015/o_akci/oakci.jpg
+image: o_akci/oakci.jpg
 date: 2023-08-08T07:49:20+02:00
 tags: ["zrj", "2015", "karlajerabka"]
 ---
@@ -24,35 +24,35 @@ Všichni účinkující vystupují bez nároku na honorář. Pokud se Vám jejic
 Vstup je zdarma a je na vlastní nebezpečí.
 
 #### KAREL
-![KAREL](/images/zrj2015/program/karel.png)
+![KAREL](program/karel.png)
 
 #### ZÁKLADNA
 
-![ZÁKLADNA](/images/zrj2015/program/zakladna.png)
+![ZÁKLADNA](program/zakladna.png)
 
 #### PARKOVIŠTĚ
 
-![PARKOVIŠTĚ](/images/zrj2015/program/parkoviste.png)
+![PARKOVIŠTĚ](program/parkoviste.png)
 
 #### GRILZÓNA
 
-![GRILZÓNA](/images/zrj2015/program/grilzona.png)
+![GRILZÓNA](program/grilzona.png)
 
 #### KOSTEL
 
-![KOSTEL](/images/zrj2015/program/kostel.png)
+![KOSTEL](program/kostel.png)
 
 #### SPORTZÓNA
 
-![SPORTZÓNA](/images/zrj2015/program/sportzona.png)
+![SPORTZÓNA](program/sportzona.png)
 
 #### DVŮR
 
-![DVŮR](/images/zrj2015/program/dvur.png)
+![DVŮR](program/dvur.png)
 
 ### Mapa aktivit
 
-![Mapa](/images/zrj2015/mapa/_MG_6224.jpg)
+![Mapa](mapa/_MG_6224.jpg)
 
 ### Podpořili nás
 
