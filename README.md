@@ -10,12 +10,12 @@ If you don't have Hugo installed then you have to install it. Guide is available
 
 Firstly you need to clone this repo.
 
-`git clone https://github.com/pstrobl96/cloudnativeprague-web.git`
+`git clone https://github.com/pstrobl96/zrj-web.git`
 
 And everything you need is to run webserver.
 
 ```
-cd cloudnativeprague-web
+cd zrj-web
 hugo server -D
 ```
 
