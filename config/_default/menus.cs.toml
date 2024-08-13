@@ -1,0 +1,119 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+#[[main]]
+#  name = "Blog"
+#  pageRef = "posts"
+#  weight = 10
+
+[[main]]
+  name = "Zažít Roudnici Jinak"
+  pageRef = "/main/zrj"
+  weight = 20
+
+[[main]]
+  name = "2024"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2024"
+  weight = 10
+
+[[main]]
+  name = "2023"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2023"
+  weight = 9
+
+[[main]]
+  name = "2022"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2022"
+  weight = 8
+
+[[main]]
+  name = "2021"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2021"
+  weight = 7
+
+[[main]]
+  name = "2020"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2020"
+  weight = 6
+
+[[main]]
+  name = "2019"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2019"
+  weight = 5
+
+[[main]]
+  name = "2018"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2018"
+  weight = 4
+
+[[main]]
+  name = "2017"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2017"
+  weight = 3
+
+[[main]]
+  name = "2016"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2016"
+  weight = 2
+
+[[main]]
+  name = "2015"
+  parent = "Zažít Roudnici Jinak"
+  pageRef = "/zrj/2015"
+  weight = 1
+
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20

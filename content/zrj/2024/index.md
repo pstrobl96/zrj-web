@@ -1,0 +1,12 @@
+---
+title: "Zažít Roudnici Jinak 2024"
+image: /images/zrj2023/zrj23_banner.jpg
+date: 2023-08-08T07:49:20+02:00
+tags: ["zrj", "2023"]
+---
+
+Někdo to rád kvašené 🤭. Letos soutěžíme o nejlepší roudnické KIMČIIIII! 🥬
+🥛 Naložte zeleninku do zavařovačky
+🦠 Nechte prospěšné bakterie dělat, co umí
+🥇 A hlavně, přihlaste letošní kimči do soutěže!
+Nezapomeňte své kimči donést 21.9. na náměstí Jana z Dražic!

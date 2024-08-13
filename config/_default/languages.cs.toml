@@ -1,0 +1,27 @@
+languageCode = "cs"
+languageName = "Czech"
+weight = 1
+title = "Zažít Roudnici Jinak"
+
+[params]
+  displayName = "CS"
+  isoCode = "cs"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo_w.png"
+  description = "Roudnice JINAK od Roudničáků pro Roudničáky"
+  copyright = "pubel.dev"
+
+ [author]
+   name = "Zažít Roudnici Jinak"
+   image = "img/logo_full.png"
+   imageQuality = 96
+   headline = "Zažij Roudnici ʞɐuᴉſ!"
+   bio = "Roudnice JINAK od Roudničáků pro Roudničáky"
+   links = [
+     { facebook = "https://www.facebook.com/zazitroudnicijinak/?locale=cs_CZ" },
+     { link = "https://zazitroudnicijinak.cz" },
+     { github = "https://github.com/zazitroudnicijinak" },
+     { discord = "https://discordapp.com/channels/676820980223442994/998892654148460705" },
+   ]
